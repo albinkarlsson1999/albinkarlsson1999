@@ -12,7 +12,7 @@ Before tech I worked as a cook and as an electrician apprentice, so I'm used to 
 **[homelab](https://github.com/albinkarlsson1999/homelab)**
 My self-hosted Raspberry Pi server, managed with GitOps: every service is a Docker Compose file in Git, deployed automatically through Portainer. VLAN-segmented UniFi network, Traefik with wildcard TLS, Cloudflare Tunnel for remote access, and secrets kept out of Git.
 
-**[CO-Calendar](https://github.com/alexanderSaila/Web-Development-Project)**
+**[CO-Calendar](https://github.com/albinkarlsson1999/co-calendar)**
 An open-source shared calendar and list app (Node.js, Express, MariaDB). Signed-cookie auth, XSS-safe rendering, sharing between users and a promise-based dialog system. Built together with a classmate.
 
 **[portfolio](https://github.com/albinkarlsson1999/portfolio)**
